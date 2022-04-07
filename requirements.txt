@@ -1,0 +1,12 @@
+setuptools
+pyarrow
+ta
+matplotlib
+pandas
+plotly
+vectorbt
+scipy
+tqdm
+scikit-learn
+imblearn
+numpy
